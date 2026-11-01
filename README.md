@@ -2,7 +2,7 @@
 
 I'm a scientific software engineer, data scientist, and electrochemist. My work sits at the intersection of mathematical transport modeling, numerical simulation methods, and accessible open-source Python development. 
 
-I am the creator and lead maintainer of **Soft Potato**, an open-source Python library designed to bring robust 1D electrochemical simulations and solvers to domain specialists and researchers. 
+I am the creator and lead maintainer of [**Soft Potato**](https://softpotato.xyz), an open-source Python library designed to bring robust 1D electrochemical simulations and solvers to domain specialists and researchers. 
 
 ---
 
